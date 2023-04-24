@@ -15,11 +15,9 @@
 Космопорт «Черезтерновый Кзвёздный»
 Дизайн-студия имени Слишком Известного Персонажа
 Ниже пример кода из нашего приложения:
-```
-<p>
-<ul>.selector {
-   <li>font-family: "Awesome", Arial, sans-serif;</li>
-   </li>color: red;</li>
-   </ul>}
-</p>
+```ruby
+.selector {
+   font-family: "Awesome", Arial, sans-serif;</li>
+   color: red;</li>
+}
 ```
